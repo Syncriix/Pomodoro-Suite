@@ -1,0 +1,6 @@
+[submodule "pomidor"]
+	path = pomidor
+	url = https://github.com/Syncriix/pomidor.git
+[submodule "org-time-budgets"]
+	path = org-time-budgets
+	url = https://github.com/Syncriix/org-time-budgets.git
