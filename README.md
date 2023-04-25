@@ -1,4 +1,8 @@
-* What I want to do
+Old Project intended for a Hire, sunset
+
+---
+
+* What I wanted to do
 - [ ] Editable pomodoros
 - [ ] Customizable timeframes
 - [ ] Auto stoping current clock on pause
